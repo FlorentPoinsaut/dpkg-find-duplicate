@@ -11,6 +11,8 @@
 
 ## Overview
 
+This script is a way to detect duplicate package on Debian family OSes.
+
 ## Setup
 
 By Git cloning:
