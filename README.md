@@ -11,7 +11,7 @@
 
 ## Overview
 
-This script is a way to detect duplicate package on Debian family OSes.
+This script is a way to detect duplicate packages with the same description on Debian family OSes.
 
 ## Setup
 
