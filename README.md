@@ -18,12 +18,13 @@ This script is a way to detect duplicate packages with the same description on D
 By Git cloning:
 
 ```shell
-git clone https://github.com/floSoX/dpkg-find-duplicate.git
+git clone https://github.com/FlorentPoinsaut/dpkg-find-duplicate.git
 ```
+
 By HTTP download:
 
 ```shell
-wget https://raw.githubusercontent.com/floSoX/dpkg-find-duplicate/master/dpkg-find-duplicate.sh
+wget https://raw.githubusercontent.com/FlorentPoinsaut/dpkg-find-duplicate/master/dpkg-find-duplicate.sh
 ```
 
 ## Usage
@@ -40,8 +41,8 @@ Debian family OSes are officially supported. Tested on Debian.
 
 This script is an open project and community contributions are essential for keeping it great.
 
-[Fork this script on GitHub](https://github.com/floSoX/dpkg-find-duplicate/fork)
+[Fork this script on GitHub](https://github.com/FlorentPoinsaut/dpkg-find-duplicate/fork)
 
 ## Contributors
 
-The list of contributors can be found at: https://github.com/floSoX/dpkg-find-duplicate/graphs/contributors
+The list of contributors can be found at: <https://github.com/FlorentPoinsaut/dpkg-find-duplicate/graphs/contributors>
